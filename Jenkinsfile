@@ -8,7 +8,7 @@ pipeline {
     }
 
     stages {
-        stage('Build Maven') {
+        stage('Build Mavens') {
             steps {
                 // Récupération du code depuis GitHub
                 checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/taha362150/DevOps-Automation-Jenkins-Pipeline-']])

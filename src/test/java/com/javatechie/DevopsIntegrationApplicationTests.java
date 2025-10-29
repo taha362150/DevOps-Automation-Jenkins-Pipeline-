@@ -12,7 +12,7 @@ class DevopsIntegrationApplicationTests {
 
 }
 
-class DevopsIntegrationApplicationTests_1 {
+class DevopsIntegrationApplicationTests_2 {
 
 	@Test
 	void contextLoads() {

@@ -11,3 +11,11 @@ class DevopsIntegrationApplicationTests {
 	}
 
 }
+
+class DevopsIntegrationApplicationTests_1 {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
